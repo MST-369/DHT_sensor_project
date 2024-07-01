@@ -8,4 +8,5 @@ Circuit:
 
 Output:
 
-![image5](https://github.com/MST-369/DHT_sensor_project/assets/145525421/4b871748-7127-417a-b017-d3993ab58e97)![image6](https://github.com/MST-369/DHT_sensor_project/assets/145525421/35df3111-7a88-4857-981b-e5c2ddaaacbe)
+![image5](https://github.com/MST-369/DHT_sensor_project/assets/145525421/4b871748-7127-417a-b017-d3993ab58e97)
+![image4](https://github.com/MST-369/DHT_sensor_project/assets/145525421/b1509b39-2e4e-4861-b45b-1e555b72093f)
